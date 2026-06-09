@@ -184,6 +184,10 @@ atuador/FPS/captura + smoke test do pipeline completo, tudo **sem hardware**).
 Protocolo serial: Python envia `CMD:<ESTADO>:<NIVEL>`; Arduino envia
 `EVT:RFID:<uid>` e `EVT:PROX:IN`. Sem Arduino, o sistema roda igual (fallback).
 
+## Link do Vídeo
+
+https://youtu.be/q5bWXM_OX5E
+
 ---
 
 ## 🛰️ Relação com a Sentinela Orbital
